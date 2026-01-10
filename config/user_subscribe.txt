@@ -3,3 +3,5 @@
 
 https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u
 https://raw.githubusercontent.com/10000ge10000/iptv-api/refs/heads/master/output/user_result.m3u
+https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.m3u
+https://raw.githubusercontent.com/hehonghui/simple-iptv/refs/heads/main/simple.m3u
