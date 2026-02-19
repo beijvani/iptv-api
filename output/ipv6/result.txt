@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-17 18:45:18,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-02-19 18:44:25,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -190,6 +190,7 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 纬来体育,http://iptv.cqshushu.com/wltv.php?id=wlty&token=a438a27a9ab11996f4a8f848146f2733
 纬来体育,https://smart.946985.filegear-sg.me/smart.php?id=videolandsport
 纬来体育,https://stream1.freetv.fun/wei-lai-ti-yu-9.ctv
+纬来体育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
 睛彩竞技,https://zby.130519.xyz/PLTV/11/224/3221226116/index.m3u8
 欢笑剧场,https://zby.130519.xyz/PLTV/11/224/3221225771/index.m3u8
 都市剧场,https://zby.130519.xyz/PLTV/11/224/3221225762/index.m3u8
