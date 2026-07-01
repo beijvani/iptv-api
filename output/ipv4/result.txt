@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-29 22:05:15,http://198.204.240.250:82/live/cctv1.m3u8
+2026-07-01 20:35:02,http://198.204.240.250:82/live/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://198.204.240.250:82/live/cctv1.m3u8
@@ -24,12 +24,12 @@ CCTV-16,http://82.156.243.185:36888/av3a/cctv16n.m3u8
 CCTV-17,http://192.151.150.154/live/cctv17hd.m3u8
 
 🌊港·澳·台,#genre#
-中天新聞台,http://www.kaniptv.cn/ua3.php?etoken=m1jBeZ6pPQWBnKTP4dIXI7Nqwc5dfmbdTt7q9eR%2BVM1N1vrRnukJbMwV5gyySRTGX7l473fyDLAmZruf53ok%2B0ycz3CBk87G0XDcC4TH1ROAs3UVFxCOP2F2GQUh0u5GMytVnvmeADQqZg4e5EQW32CUaKAXNtHCKUq8Jba52fcKI%2F5rG%2BuWIn%2BrHACdELABB7IIpDLliZegojaVp%2BBk0zzCbtX%2BKLaeH3cWrYH8Nv%2Fs1rnm%2F%2BDv%2FwF5%2B3AXEQJGmaIS8XMZFvaeT0AzRl2xgQTFeqbsQE2kZbCM7wXHLpg1TfYXRaajBsFZFNaAQFy34ISU9wqf4L%2Fe2TDnf6%2FoUg%3D%3D
 民视,rtmp://f13h.mine.nu/sat/tv051
 台视,rtmp://f13h.mine.nu/sat/tv071
 华视,rtmp://f13h.mine.nu/sat/tv111
 华视,rtmp://f13h.mine.nu:1935/sat/tv111
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 
 💰音乐娱乐,#genre#
 Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
@@ -43,53 +43,46 @@ Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 广东卫视,rtmp://39.108.129.193:1935/gdws/ia9s_gdws
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
 广东卫视,http://173.208.212.130:8181/720p/gdws.m3u8
-广东卫视,http://lysj.aylzline.top:8899/rtp/225.1.2.151:10924
 浙江卫视,rtmp://39.108.129.193:1935/zjws/ocqo_zjws
 浙江卫视,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=zjws&zy.m3u8
 浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://xurishangcheng.top:10888/udp/239.49.8.20:9618
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/720p.m3u8
 湖南卫视,rtmp://39.108.129.193:1935/hnws/nz40_hnws
 湖南卫视,https://iptv.catvod.com/catvod.php?id=hunws
 湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
-湖南卫视,http://173.208.212.130:8181/720p/hnws.m3u8
 北京卫视,rtmp://39.108.129.193:1935/beijing/ys8w_beijing
 湖北卫视,https://iptv.catvod.com/catvod.php?id=hubws
+湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
 黑龙江卫视,https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=5
-黑龙江卫视,http://204.12.221.218:8181/3m1080p/hljws.m3u8
 黑龙江卫视,http://sagrad.org:8181/3m1080p/hljws.m3u8
+黑龙江卫视,http://204.12.221.218:8181/3m1080p/hljws.m3u8
 安徽卫视,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=ahws&zy.m3u8
+安徽卫视,http://home.scanflove.com:7788/rtp/235.254.199.65:7980
 东方卫视,rtmp://39.108.129.193:1935/dfws/6um8_dfws
 东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
 东南卫视,https://iptv.catvod.com/catvod.php?id=dnws
 东南卫视,http://198.204.240.250:82/live/dnws.m3u8
-东南卫视,http://204.12.221.218:8181/3m1080p/dnws.m3u8
 甘肃卫视,https://iptv.catvod.com/catvod.php?id=gsws
 贵州卫视,https://iptv.catvod.com/catvod.php?id=gzws
 海南卫视,https://iptv.catvod.com/catvod.php?id=hinws
-海南卫视,http://sagrad.org:8181/3m1080p/lyws.m3u8
-海南卫视,http://204.12.221.218:8181/3m1080p/lyws.m3u8
 海南卫视,https://kavencat01.kodview.com/live/hnntv.php?id=hnws
 河北卫视,http://sagrad.org:8181/3m1080p/hews.m3u8
 河北卫视,http://204.12.221.218:8181/3m1080p/hews.m3u8
 河南卫视,rtmp://39.108.129.193:1935/henan/zam8_henan
 河南卫视,http://lxajh.top/tv/hn.php?id=hnws
-河南卫视,http://173.208.212.130:8181/720p/haws.m3u8
 江苏卫视,rtmp://39.108.129.193:1935/jsws/5f9c_jsws
 江苏卫视,https://txmov2.a.kwimgs.com/upic/2023/02/07/12/BMjAyMzAyMDcxMjQ3NDlfNzM5MzQzNzIyXzk1NjcxMTk5ODM5XzBfMw==_b_Bb92095c7df3c98b458dd14abf1d4b575.mp4
 江苏卫视,http://38.75.136.137:98/gslb/dsdqbv/jswshd.m3u8?auth=test20251009
-江西卫视,http://sagrad.org:8181/3m1080p/jxws.m3u8
-江西卫视,http://204.12.221.218:8181/3m1080p/jxws.m3u8
 辽宁卫视,rtmp://39.108.129.193:1935/liaoning/k2v4_liaoning
 辽宁卫视,https://iptv.catvod.com/live.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&line=3
 辽宁卫视,http://204.12.221.218:8181/3m1080p/lnws.m3u8
 辽宁卫视,http://sagrad.org:8181/3m1080p/lnws.m3u8
 内蒙古卫视,https://iptv.catvod.com/catvod.php?id=nmws
 内蒙古卫视,http://38.75.136.137:98/gslb/dsdqpub/nmgws.m3u8?auth=testpub
-宁夏卫视,http://107.150.60.122/live/nxws.m3u8
 宁夏卫视,http://198.204.228.26/live/nxws.m3u8
+宁夏卫视,http://107.150.60.122/live/nxws.m3u8
 青海卫视,http://home.szjim.top:4000/udp/239.253.43.125:5146
 山东卫视,rtmp://39.108.129.193:1935/shandong/1qww_shandong
 山东卫视,http://115.29.208.41:34567/sd.php?id=sdws
@@ -97,13 +90,11 @@ Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 山西卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86&line=2
 四川卫视,http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
 四川卫视,http://192.151.150.154/live/scwshd.m3u8
-四川卫视,http://sagrad.org:8181/3m1080p/scws.m3u8
-四川卫视,http://204.12.221.218:8181/3m1080p/scws.m3u8
 三沙卫视,https://iptv.catvod.com/catvod.php?id=ssws
 三沙卫视,http://sagrad.org:8181/3m1080p/ssws.m3u8
 三沙卫视,http://204.12.221.218:8181/3m1080p/ssws.m3u8
-天津卫视,http://lysj.aylzline.top:8899/rtp/225.1.2.87:10516
 云南卫视,http://204.12.221.218:8181/3m1080p/ynws.m3u8
+云南卫视,http://home.szjim.top:4000/udp/239.253.43.37:5146
 云南卫视,http://sagrad.org:8181/3m1080p/ynws.m3u8
 
 ☘️北京频道,#genre#
