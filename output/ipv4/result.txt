@@ -1,22 +1,46 @@
 🕘️更新时间,#genre#
-2026-07-15 19:31:38,http://demo.medrun.cn:4022/rtp/233.18.204.69:5140
+2026-07-17 19:24:18,http://mg.cttv.vip/608807420
 
 📺央视频道,#genre#
+CCTV-1,http://mg.cttv.vip/608807420
+CCTV-2,http://mg.cttv.vip/631780532
 CCTV-3,http://demo.medrun.cn:4022/rtp/233.18.204.69:5140
-CCTV-3,http://www.rogerxlj.top:9998/rtp/233.18.204.69:5140
+CCTV-3,http://mg.cttv.vip/624878271
+CCTV-4,http://mg.cttv.vip/631780421
+CCTV-5,http://demo.medrun.cn:4022/rtp/233.18.204.71:5140
+CCTV-5,http://mg.cttv.vip/641886683
+CCTV-5+,http://demo.medrun.cn:4022/rtp/233.18.204.67:5140
+CCTV-5+,http://mg.cttv.vip/641886773
 CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8
+CCTV-6,http://demo.medrun.cn:4022/rtp/233.18.204.72:5140
+CCTV-6,http://mg.cttv.vip/624878396
 CCTV-7,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd
-CCTV-10,http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
+CCTV-7,http://mg.cttv.vip/673168121
+CCTV-7,http://www.rogerxlj.top:9998/rtp/233.18.204.73:5140
+CCTV-8,http://mg.cttv.vip/624878356
+CCTV-9,http://mg.cttv.vip/673168140
 CCTV-10,http://192.151.150.154/live/cctv10hd.m3u8
-CCTV-11,http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
+CCTV-10,http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
+CCTV-10,http://mg.cttv.vip/624878405
+CCTV-10,http://demo.medrun.cn:4022/rtp/233.18.204.76:5140
 CCTV-11,http://192.151.150.154/live/cctv11hd.m3u8
+CCTV-11,http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
+CCTV-11,http://mg.cttv.vip/667987558
+CCTV-11,http://demo.medrun.cn:4022/rtp/233.18.204.77:5140
+CCTV-12,http://mg.cttv.vip/673168185
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+CCTV-13,http://mg.cttv.vip/608807423
 CCTV-14,http://192.151.150.154/live/cctv14hd.m3u8
-CCTV-15,http://192.151.150.154/live/cctv15hd.m3u8
+CCTV-14,http://mg.cttv.vip/624878440
 CCTV-15,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
+CCTV-15,http://192.151.150.154/live/cctv15hd.m3u8
+CCTV-15,http://mg.cttv.vip/673168223
 CCTV-16,rtmp://ayrtsocndali.v.myalicdn.com/ayocnd/4kcctv16_2pd
 CCTV-16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
+CCTV-16,http://demo.medrun.cn:4022/rtp/233.18.204.82:5140
+CCTV-17,http://mg.cttv.vip/673168256
 CETV-1,http://www.rogerxlj.top:9998/rtp/233.18.204.98:5140
+CETV-4,http://demo.medrun.cn:4022/rtp/233.18.204.111:5140
 
 🌊港·澳·台,#genre#
 民视,rtmp://f13h.mine.nu/sat/tv051
@@ -24,6 +48,7 @@ CETV-1,http://www.rogerxlj.top:9998/rtp/233.18.204.98:5140
 华视,rtmp://f13h.mine.nu/sat/tv111
 华视,rtmp://f13h.mine.nu:1935/sat/tv111
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 
 💰音乐娱乐,#genre#
 Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
@@ -36,16 +61,19 @@ Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 广东卫视,rtmp://39.108.129.193:1935/gdws/ia9s_gdws
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
 浙江卫视,rtmp://39.108.129.193:1935/zjws/ocqo_zjws
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/720p.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=zjws&zy.m3u8
+浙江卫视,http://demo.medrun.cn:4022/rtp/233.18.204.84:5140
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/720p.m3u8
 湖南卫视,rtmp://39.108.129.193:1935/hnws/nz40_hnws
 湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
+湖南卫视,http://demo.medrun.cn:4022/rtp/233.18.204.86:5140
 北京卫视,rtmp://39.108.129.193:1935/beijing/ys8w_beijing
-湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
-安徽卫视,http://home.scanflove.com:7788/rtp/235.254.199.65:7980
+北京卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.87:5140
+北京卫视,http://demo.medrun.cn:4022/rtp/233.18.204.87:5140
+重庆卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.100:5140
 东方卫视,rtmp://39.108.129.193:1935/dfws/6um8_dfws
 东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
 东南卫视,http://198.204.240.250:82/live/dnws.m3u8
