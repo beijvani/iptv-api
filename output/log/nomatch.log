@@ -1,4 +1,4 @@
-2026-08-20,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
+2026-08-22,https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/Robot.mp4
 东方卫视4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 广州综合,http://r.jdshipin.com/iR6Gq$IPV4•线路1
 浙江卫视4K,http://101.35.240.114:88/live.php?id=浙江卫视4K
@@ -8,249 +8,97 @@
 广东卫视4K,http://101.35.240.114:88/live.php?id=广东卫视4K
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488$IPV4•线路4
 深圳卫视4K,#http://101.35.240.114:88/live.php?id=深圳卫视
-CGTN CN,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487$IPV4•线路5
+延边卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 山东卫视4K,http://101.35.240.114:88/live.php?id=山东卫视4K
-CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe$IPV4•线路6
+康巴卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkHMvBpWz4rccMxNvSRekpQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
-LiveNOW from FOX,https://s11host2.localnow.api.cms.amdvids.com/v1/manifest/c189661feba961c19bc5fb60b57879ee9b84548a/config13/25a2f26d-fa83-469b-a0c6-0d4508fec2c0/2.m3u8
 广州综合,https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=65797c44&%3BtxSecret=7e4590b2320037d7ce49ce9eac2dd6c0$IPV4•线路7
+浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
-Newsmax,https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
 广州综合,http://113.95.132.166:554/rtp/239.253.43.71:5146$IPV4•线路8
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
-Reuters,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/e7493ea5-5c1c-4d7a-a3f7-e95516048ad8/3.m3u8
 广州综合,http://183.30.201.121:10002/rtp/239.253.43.71:5146$IPV4•线路9
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 CCTV-兵器科技,http://www.lizhinas.top:1009/rtp/239.252.219.98:5140
-Sky News International,https://xumo-drct-skynews-nc91a.fast.nbcuni.com/live/master_5.m3u8
 广州综合,http://58.63.66.57:8888/rtp/239.253.43.71:5146$IPV4•线路10
+浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 CCTV-世界地理,http://www.lizhinas.top:1009/rtp/239.252.219.93:5140
-BBC News UK,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 广州综合,https://168.sryze.cc/163189/gzzh$IPV4•线路11
+之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 CCTV-风云足球,http://www.lizhinas.top:1009/rtp/239.252.219.96:5140
-Euronews FR,https://aka-live1050.delivery.roku.com/f5af26d1-822b-43f3-93f4-2301a947e1f3/t2-origin/out/v1/live_1080.m3u8
 广州综合,rtsp://183.59.56.116:554/PLTV/88888905/224/3221230104/453207146.smil?0&accountinfo=%7E%7EV2.0%7EzPzHhhIQTsmwS_6SJEwFCg%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2$IPV4•线路12
+浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 CCTV-文化精品,http://www.lizhinas.top:1009/rtp/239.252.219.81:5140
-DW English DE,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 广州综合,http://f.123.rr.kg/163189/gzzh$IPV4•线路13
+浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 CCTV-女性时尚,http://www.lizhinas.top:1009/rtp/239.252.219.94:5140
-TRT World TR,https://tv-trtworld.medya.trt.com.tr/master_1440.m3u8
 广州综合,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8$IPV4•线路14
+浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 CCTV-卫生健康,http://nas.hssvm.com:8888/udp/225.1.1.210:5002
-CityNews Toronto CA,https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/Video-3MBPS.m3u8
 广州综合,https://tencentplaygzrb01.gztv.com/live/zonghes.m3u8$IPV4•线路15
+内蒙新闻,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
 CCTV-央视台球,http://www.lizhinas.top:1009/rtp/239.252.219.80:5140
-CNN Originals,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/3836c9f5-9b7c-4254-90fd-4c8bcfca7f8f/3.m3u8
 广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3$IPV4•线路1
+内蒙经济,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
 CCTV-央视高网,http://www.lizhinas.top:1009/rtp/239.252.219.95:5140
-BBC Antiques Roadshow UK,https://dbbg0ax8bgo7d.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5rr52e88156vv-prod/4e195c60-6424-49aa-9666-ace19f590582/2.m3u8
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen$IPV4•线路2
+内蒙少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
 CCTV-电视指南,http://www.lizhinas.top:1009/rtp/239.252.219.97:5140
-Billiard TV,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/8076993c-bbf4-4dbc-a77a-9b70047f90e0/4.m3u8
 广州新闻,http://113.95.132.166:554/rtp/239.253.43.72:5146$IPV4•线路3
+内蒙文体,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-ESPN8: The Ocho,https://d3b6q2ou5kp8ke.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vz67vw1bljinm/aab88f58-adb6-4466-aceb-3b71a6f23411/4.m3u8
 广州新闻,http://183.30.201.121:10002/rtp/239.253.43.72:5146$IPV4•线路4
+内蒙农牧,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800
 中国交通,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
-NBC Sports NOW,https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/9ed59304-2f35-4c88-9b99-34153edef42b/4.m3u8
 广州新闻,http://58.63.66.57:8888/rtp/239.253.43.72:5146$IPV4•线路5
+蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-PFL,https://aka-live1050.delivery.roku.com/120da388-708f-4b8f-b4f4-8d564c348eb1/t2-origin/out/v1/live_1080.m3u8
 广州新闻,https://168.sryze.cc/163189/gzxw$IPV4•线路6
+蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=d9d0fd7a252ef56b515c46a2e21830f4&txTime=771E8800
 熊猫直播,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
-Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=6f73647cae387d01a3c2132074132a83&txTime=18d00acf487$IPV4•线路7
+呼市新闻综合,https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800
 CETV-1 综合教育,http://www.lizhinas.top:1009/rtp/239.252.220.198:5140
-Red Bull TV Motorsport,https://d39yjeivnywvts.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ww9fq2xfgtfog/edaaeec2-d7b8-4a80-aa03-601309764d5a/0.m3u8
 广州新闻,rtsp://183.59.131.100:554/PLTV/88888905/224/3221230113/453206913.smil?0&accountinfo=%7E%7EV2.0%7E0SFQT4d134tJBYGpDmeXDQ%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2$IPV4•线路8
+包头新闻综合,https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=98390a77c143a68f0fd64bfe6e181dcb&txTime=771E8800
 CETV-2 空中课堂,http://www.lizhinas.top:1009/rtp/239.252.219.73:5140
-Strongman Champions League,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/ad15bc3b-8829-47e5-8a6d-258b501ca01c/5.m3u8
 广州新闻,http://f.123.rr.kg/163189/gzxw$IPV4•线路9
+鄂尔多斯新闻,https://livestream-bt.nmtv.cn/nmtv/2349general.m3u8?txSecret=e44477052aba305cadeea45aaf1c674a&txTime=771E8800
 CETV-3 教育服务,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226722/1.m3u8
-UFC,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/194a140c-0cf5-443e-b747-08bf621d75a8/0.m3u8
 广州新闻,https://cdn16.123.rr.kg/163189/gzxw$IPV4•线路10
+巴彦淖尔新闻,https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800
 CETV-4 职业教育,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
-Women's Sports Network,https://d39accvx65hq9o.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ngwzz9m41tnrd/ea1fdc6f-3d1d-481b-9a7d-b9944f86e3f1/3.m3u8
 广州新闻,http://47.108.20.161:8866/guangdong/guangzhou.php?id=xinwen$IPV4•线路11
+赤峰新闻综合,https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800
 CGTN英语,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-WWE Superstar Central,https://dpv6ceilvhyrw.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7ufe851j0vqbg/cb057fb1-5af8-4aca-9641-86ed99826bac/3.m3u8
 广州新闻,https://tencentplaybusiness.gztv.com/live/xinwen.m3u8$IPV4•线路12
+乌兰察布新闻,https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800
 CGTN记录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
-TSN The Ocho CA,https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/77d9db0d-3fde-4e0c-a2fd-150fc780c9b7/3.m3u8
 广州新闻,http://cdn16.123.rr.kg/163189/gzxw$IPV4•线路13
+CGTN英语,https://0472.org/hls/cgtn.m3u8
 CGTN俄语,http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
-AMC Thrillers,https://18f2fbf906cb473e8adbe37026e7e27f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_RushByAMC/dbfca017-81b9-4a86-af1e-debe7e1a7666/4.m3u8
 广州新闻,https://tencentplaygzrb01.gztv.com/live/xinwen.m3u8$IPV4•线路14
+CGTN记录,https://0472.org/hls/cgtnd.m3u8
 CGTN法语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
-CW Forever,https://d1sknsnbkyvie.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbcl5hxexbihh/38ec3205-dcc5-4c0f-a047-917eb2054891/0.m3u8
 广州新闻,http://8.134.175.232:4022/rtp/239.253.43.72:5146$IPV4•线路15
+CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN西语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
-CW Gold,https://d1d726ny1vain2.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-femoe55fvrdvc/3bef8470-bcb1-49b1-a816-0737fa4c27cd/0.m3u8
 广东珠江,http://gat.xyys.site/cdnlive-fusion.php?mode=play&id=b66feca3d096e80c29170d88402f07b6&token=MO9fE3b9swtXd8K26mW1CeKqfWEf4gkD;machineid=495211d81289co9b;userip=140.250.232.154;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app$IPV4•线路1
+CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN阿语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
-FilmRise British TV,https://aka-live1050.delivery.roku.com/d83b2941-9473-4d27-adb0-aec056e72ef8/t2-origin/out/v1/live_720.m3u8
 广东珠江,http://m.061899.xyz/mg/gdzj$IPV4•线路2
+CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CCTV4K,http://p.ytelc.com/169l/0/cctv.php?id=cctv4k
-FilmRise Classic TV,https://aka-live1050.delivery.roku.com/9f8d19b2-1dfc-432a-bc3e-e1dacf2f0e4e/t2-origin/out/v1/live_720.m3u8
 广东珠江,http://r.jdshipin.com/sE5vO$IPV4•线路3
+CGTN阿语,https://0472.org/hls/cgtna.m3u8
 金鹰纪实,http://iptv.huuc.edu.cn/hls/gedocu.m3u8
-FilmRise Free Movies,https://aka-live1050.delivery.roku.com/1c6ad6fa-bf05-4887-9469-74eb48c81627/t2-origin/out/v1/live_720.m3u8
 广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8$IPV4•线路4
+BBC News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 山东教育,http://iptv.huuc.edu.cn/hls/sdetv.m3u8
-FilmRise Horror,https://aka-live1050.delivery.roku.com/148be9ff-1ae2-439c-a3f0-fd55dfa506ab/t2-origin/out/v1/live_720.m3u8
 广东珠江,https://hk.188766.xyz/?migutoken=34467290b64f0850801479159893a4de&id=gd_gdzj&type=sz$IPV4•线路5
+BBC Earth,https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
 CCTV4美洲,http://t.061899.xyz/tl/tl.php?id=cctv4m
-FilmRise Western,https://aka-live1050.delivery.roku.com/19152b37-cae5-4c48-9cd1-3d18d0857485/t2-origin/out/v1/live_720.m3u8
 广东珠江,http://lu.wqwqwq.sbs/itv/2000000003000000033.m3u8?cdn=hnbblive$IPV4•线路6
-CCTV4欧洲,http://t.061899.xyz/tl/tl.php?id=cctv4o
-MGM Present,https://ffef67628f584802af88ab884a963471.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1071-MGMPRESENTS-TCLTV/7035defd-1fc3-49cd-9dd6-8f646549cc42/0.m3u8
-广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-16.ctv$IPV4•线路7
-CCTV发现之旅,http://t.061899.xyz/tl/tl.php?id=fxzl
-MGM Present Horror,https://99f62fea411048679ce5e233e88f2b95.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1217-MGMPRESENTSHORROR-TCLTV/55852247-e42e-4f5f-81b9-54a3f0a893bf/0.m3u8
-广东珠江,http://120.198.95.220:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&down=1$IPV4•线路8
-CCTV老故事,http://t.061899.xyz/tl/tl.php?id=lgs
-NBC Comedy Vault,https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/a90cc32f-3289-4647-8b23-a28125cfa538/4.m3u8
-广东珠江,http://120.237.39.10:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&down=1$IPV4•线路9
-CCTV中学生,http://t.061899.xyz/tl/tl.php?id=zxs
-OuterSphere by Lionsgate,https://d3o593mz1glx8d.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ca6ra6358f5t/00b50ee1-5798-469a-b438-53e6c394eccc/3.m3u8
-广东珠江,https://2.fast.hidns.vip/163189/gdzj$IPV4•线路10
-CGTN,http://t.061899.xyz/tl/tl.php?id=cgtn
-Universal Movies,https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/e7275bfb-fb8d-49d8-969f-854481fa7e71/4.m3u8
-广东珠江,http://67.220.71.199:2347/livehttpplay?channel_id=20144$IPV4•线路11
-CGTN纪录,http://t.061899.xyz/tl/tl.php?id=cgtnjl
-Universal Crime,https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/8c099bf8-0c15-481f-a109-1a3162361da8/4.m3u8
-广东珠江,http://8.138.7.223/tv/gdzj.m3u8$IPV4•线路12
-海峡卫视,http://t.061899.xyz/tl/tl.php?id=hxws
-Universal Western,https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/a121f0f1-6195-47d3-aaeb-aebe124b0511/4.m3u8
-广东珠江,http://go.bkpcp.top/mg/gdzj$IPV4•线路13
-大湾区卫视,http://t.061899.xyz/tl/tl.php?id=dwqws
-BritBox Mysteries UK,https://1d7f286dfb844497ac68dd9d6eeb6ea6.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-796-BRITBOXMYSTERIES-LG_US/a623a951-0765-40f6-83dd-307e7c64a4f5/0.m3u8
-广东珠江,http://120.87.19.109:80/PLTV/88888973/224/3221225765/10000100000000060000000000337113_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3xO19uH5hdTnCFTMsbtW1pkQWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601$IPV4•线路14
-四海钓鱼,http://t.061899.xyz/tl/tl.php?id=shdy
-Sony One Action HITS UK,https://89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-800-UK-SONYONEACTIONHITS-LG_UK/af2459de-b2ca-47eb-8435-5e6998ec22dc/0.m3u8
-广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub$IPV4•线路15
-CHC动作电影,http://t.061899.xyz/tl/tl.php?id=chcdzdy
-Sony One Comedy HITS UK,https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-802-UK-SONYONECOMEDYHITS-LG_UK/cc1d2891-3e9b-4e4c-a518-383d37092998/0.m3u8
-广州影视频道,http://14.145.187.131:4022/udp/239.253.43.73:5146$IPV4•线路1
-CHC家庭影院,http://t.061899.xyz/tl/tl.php?id=chcjtdy
-Sony One Thriller TV UK,https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-808-UK-SONYONETHRILLERTV-LG_UK/02d6917b-e5da-46e2-82d5-c3b3103bfd0e/0.m3u8
-广州影视频道,http://113.65.7.6:7088/udp/239.253.43.73:5146$IPV4•线路2
-上视纪实人文,http://t.061899.xyz/tl/tl.php?id=shjsrw
-The LEGO Channel,https://dh18i7whff86v.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pslwq5nud9zg9/fc2273de-2ae1-4ed2-905d-739cf431eb30/0.m3u8
-广州影视频道,http://183.236.43.98:4013/udp/239.253.43.73:5146$IPV4•线路3
-乐游,http://t.061899.xyz/tl/tl.php?id=ly
-Love Nature 4K,https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
-广州影视频道,http://183.47.2.156:16883/udp/239.253.43.73:5146$IPV4•线路4
-游戏风云,http://t.061899.xyz/tl/tl.php?id=yxfy
-FilmRise Forensic Files,https://aka-live1050.delivery.roku.com/44ad8bf1-82c2-476d-89c2-0ee89d0747b5/t2-origin/out/v1/live_720.m3u8
-广州影视频道,http://tencentplay.gztv.com/live/yingshi.m3u8$IPV4•线路5
-优漫卡通,http://t.061899.xyz/tl/tl.php?id=ymkt
-FilmRise Mysteries,https://aka-live1050.delivery.roku.com/6958d32d-d93b-4cbd-81ca-aab20001570b/t2-origin/out/v1/live_720.m3u8
-广州电视台法治频道,http://tencentplay.gztv.com/live/fazhi.m3u8$IPV4
-大湾区卫视,http://148.135.93.213/live.php?id=大湾区卫视
-FilmRise True Crime,https://aka-live1050.delivery.roku.com/22b66942-f85a-4a33-9440-61fea2cac667/t2-origin/out/v1/live_720.m3u8
-广州南国都市频道,http://r.jdshipin.com/nWaZO$IPV4•线路1
-苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-MagellanTV Wildest,https://s8host3.localnow.api.cms.amdvids.com/v1/manifest/c189661feba961c19bc5fb60b57879ee9b84548a/config10/fdc864bc-5776-4756-90d6-b0902043c249/0.m3u8
-广州南国都市频道,https://tencentplay.gztv.com/live/nanguodushi.m3u8$IPV4•线路2
-河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
-Nature Moments,https://aka-live1050.delivery.roku.com/d219883b-5654-402f-9391-33e9144cad39/t2-origin/out/v1/live_1080.m3u8
-广州南国都市频道,http://r.jdshipin.com/nWaZO$IPV4•线路3
-延边卫视,http://120.76.248.139/live/bfgd/4200000117.m3u8
-REELZ Famous & Infamous,https://pb-pskpwdav4v1e3.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-pskpwdav4v1e3/285d2802-77e5-459a-950e-c055bd2ace07/0.m3u8
-广州南国都市频道,http://tencentplay.gztv.com/live/nanguodushi.m3u8$IPV4•线路4
-农林卫视,http://120.76.248.139/live/bfgd/4200000122.m3u8
-CTV Gridlock CA,https://dhjd4u7ds8bgi.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ses39ewew36zq/edd17cd1-3ddc-42bd-9941-e780391c4ff5/3.m3u8
-4K南国都市频道,https://tencentplaywebsite.gztv.com/live/nanguodushi.m3u8?txSecret=daf0738d94787ac64d25644076012591&txTime=1956eaafce4$IPV4
-兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
-Comet,https://fast-channels.sinclairstoryline.com/COMET/index_1.m3u8
-广州竞赛频道,http://8.138.7.223/tv/gzjs.m3u8$IPV4
-山东教育,https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
-ION Television,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/a5e7ebd8-80a4-49ed-8337-3f63f84673cc/1.m3u8
-广东民生,http://m.061899.xyz/mg/gdms$IPV4•线路1
-海峡卫视,http://8.138.7.223/tv/hxws.m3u8
-RMC Découverte FR,https://d1dagx0hs2fkxs.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-2p2o2x977e2oh/1684a6c6-7cce-480a-88c0-aff91aab84f5/0.m3u8
-广东民生,http://119.32.12.17:2901/udp/224.1.100.4:11111$IPV4•线路2
-安多卫视,#http://qwt.zhibotv.top:2016/全网通.php?id=安多卫视
-RMC Story FR,https://d171yrj5ba7twq.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-c5al169c4n0ck/63cd71b0-38bc-4416-8e96-4384ea5bac34/0.m3u8
-广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub$IPV4•线路3
-康巴卫视,#http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225856/index.m3u8
-PBS Food,https://aka-live1050.delivery.roku.com/96414c68-02f2-4e5c-8e5d-355025ccf724/t2-origin/out/v1/live_1080.m3u8
-广东民生,http://183.11.239.36:808/hls/18/index.m3u8$IPV4•线路4
-大湾区卫视,http://ali.hlspull.yximgs.com/live/b027460e580a463cb7e44eebexcvhnddggdfsdg.flv
-CTV @ Home CA,https://d1ieuq3tbxyiyt.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zv27yfxabsqcr/d20c04d4-1577-446c-b551-5bb288121a09/3.m3u8
-广东民生,http://go.bkpcp.top/mg/gdms$IPV4•线路5
-珠江卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.24:11111
-CTV Gets Real CA,https://dyibab6iv1p6i.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4j7c245x3pz3r/04f2cd9d-c459-4f57-a79f-473d1b3ca65a/3.m3u8
-广东民生,http://120.87.19.109:80/PLTV/88888973/224/3221225720/10000100000000060000000000334144_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3x4W8LfloN3W92DrvXeW/EDwWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601$IPV4•线路6
-CGTN,http://112.27.235.94:8000/hls/17/index.m3u8
-CTV Laughs CA,https://dvsxtm7eutazd.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8bf178m7nvq93/b1bc7153-ba35-44a8-8706-a64867f31214/3.m3u8
-广东民生,http://107.150.60.122/live/gdgg.m3u8$IPV4•线路7
-上海卫视,http://112.27.235.94:8000/hls/28/index.m3u8
-Stingray DJAZZ,https://d1or3dijypy7w9.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fnc447z72mkdf/220c440a-5b8b-4760-b6fd-57ac5c97bcc8/3.m3u8
-广东民生,http://192.151.150.154/live/gdgg.m3u8$IPV4•线路8
-重温经典,http://112.27.235.94:8000/hls/50/index.m3u8
-Vevo '70s,https://aka-live1050.delivery.roku.com/6d5c246a-08f3-480e-8de3-89d8a9130921/t2-origin/out/v1/live_1080.m3u8
-广东民生,http://198.204.228.26/live/gdgg.m3u8$IPV4•线路9
-CCTV-4K,http://www.tszhgjj.cn:7000/rtp/239.253.93.134:6631
-Vevo '80s,https://aka-live1050.delivery.roku.com/b59d15a0-25a0-4143-81d8-9daab4b0128c/t2-origin/out/v1/live_1080.m3u8
-广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgga.m3u8?auth=testpub$IPV4•线路10
-苏州4K,http://106.53.99.30/tv/api.php?id=sztv4k
-Vevo '90s,https://aka-live1050.delivery.roku.com/937c45fe-d273-4186-82c2-7e987ef5ce02/t2-origin/out/v1/live_1080.m3u8
-广东民生,http://www.yahao.host:4022/udp/239.77.0.225:5146$IPV4•线路11
-河北4K,http://106.53.99.30/tv/api.php?id=hebtv4k
-Vevo 2K,https://aka-live1050.delivery.roku.com/91a7a549-6c7a-43cd-a80c-00445443ccbd/t2-origin/out/v1/live_1080.m3u8
-广东民生,http://183.11.239.36:808/hls/18/index.m3u8$IPV4•线路12
-CETV-01,https://zby.130519.xyz/PLTV/11/224/3221225775/index.m3u8
-Vevo Country,https://aka-live1050.delivery.roku.com/c852fbec-cd06-4040-904b-9a9481647a94/t2-origin/out/v1/live_1080.m3u8
-广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub$IPV4•线路13
-CETV-04,https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8
-Vevo Hip-Hop,https://aka-live1050.delivery.roku.com/04bfc270-3919-495e-a61d-39814ab58131/t2-origin/out/v1/live_1080.m3u8
-广东民生,http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=hedgjP&tk=zUr4K92Dl6kh$IPV4•线路14
-黑龙江视,https://zby.130519.xyz/PLTV/11/224/3221225722/index.m3u8
-Vevo Latino,https://aka-live1050.delivery.roku.com/473ec9f9-6dad-4a92-86e9-215c5fa50602/t2-origin/out/v1/live_1080.m3u8
-广东民生,http://125.94.244.29:2101/1234.php?id=39&s=6$IPV4•线路15
-金色学堂,https://zby.130519.xyz/PLTV/11/224/3221225748/index.m3u8
-Vevo Pop,https://aka-live1050.delivery.roku.com/2436b19a-5fb6-4245-99f9-ba3dc33af3c0/t2-origin/out/v1/live_1080.m3u8
-广东综艺,http://113.95.132.166:554/rtp/239.77.1.237:5146$IPV4•线路1
-游戏风云,https://zby.130519.xyz/PLTV/11/224/3221226117/index.m3u8
-Vevo R&B,https://aka-live1050.delivery.roku.com/395d8b66-d246-4bf2-87b6-89a5dc1084ed/t2-origin/out/v1/live_1080.m3u8
-广东综艺,http://183.30.201.121:10002/rtp/239.77.1.237:5146$IPV4•线路2
-游戏风云,#https://zby.130519.xyz/PLTV/11/224/3221226140/index.m3u8
-XITE 80s Flashback,https://d1n314cytqn9r3.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bklagqy82v0pr/546a529d-394a-4513-bb13-af14dbfbefaf/3.m3u8
-广东综艺,http://58.63.66.57:8888/rtp/239.77.1.237:5146$IPV4•线路3
-乐游频道,https://zby.130519.xyz/PLTV/11/224/3221226157/index.m3u8
-XITE 90s Throwback,https://d284aawtm5vi48.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/4aa6988f-4506-421c-8687-42c4b2105ad0/3.m3u8
-广东综艺,rtsp://183.59.56.116:554/PLTV/88888905/224/3221229717/10000100000000060000000008643415_0.smil?0&accountinfo=%7E%7EV2.0%7E5eD1tRLue3bsAGvSDf20HA%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2$IPV4•线路4
-乐游频道,#https://zby.130519.xyz/PLTV/11/224/3221226115/index.m3u8
-XITE Hits,https://d726x48n2pd5h.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/c70b5479-c97b-407b-9caf-4dc3877797bb/3.m3u8
-广东综艺,rtsp://183.59.56.116:554/PLTV/88888905/224/3221229713/10000100000000060000000008646185_0.smil?0&accountinfo=%7E%7EV2.0%7EG5fEQeO2yT2LgijcyazKdg%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2$IPV4•线路5
-金鹰卡通,https://zby.130519.xyz/PLTV/11/224/3221226094/index.m3u8
-XITE Just Chill,https://dvnftgdlbnemm.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dh48uzd9o895t/00fbab90-74cb-4f1f-9dc7-3c6729bc05b6/3.m3u8
-广东综艺,http://14.145.187.131:4022/udp/239.77.0.252:5146$IPV4•线路6
-睛彩篮球,https://zby.130519.xyz/PLTV/11/224/3221226118/index.m3u8
-XITE Nuevo Latino,https://d3bsgqzbpkrvbb.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/075ea560-48b3-46ee-a540-4652a11b6496/3.m3u8
-广东综艺,http://113.65.7.6:7088/udp/239.77.0.252:5146$IPV4•线路7
-睛彩广场,https://zby.130519.xyz/PLTV/11/224/3221226139/index.m3u8
-XITE Rock x Metal,https://d198ro05q94rc4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/cb1e7724-889a-4222-bd51-521d7138d981/3.m3u8
-广东综艺,http://183.236.43.98:4013/udp/239.77.0.252:5146$IPV4•线路8
-CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-XITE Spring Vibes,https://dt1s4l2cmiyit.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fcwpee1h7t5cs/530416f1-5263-4b76-b173-89ec9966d010/3.m3u8
-广东综艺,http://183.47.2.156:16883/udp/239.77.0.252:5146$IPV4•线路9
-CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-Deluxe RAP DE,https://db7hpmv1jrjri.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m380ud5ckv9kb/b0ddd142-6bee-4a68-a804-7c42acd2fbe6/3.m3u8
-广东影视,http://k.061899.xyz/k.php?id=gdys$IPV4•线路1
-CHC动作电影,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-TV BRICS Chinese,https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
-广东影视,http://119.32.12.17:2901/udp/224.1.100.11:11111$IPV4•线路2
-CHC影迷电影HD,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/lnwsCHC-HDH265_4000.m3u8
-ABC News,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-广东影视,http://go.bkpcp.top/mg/gdys$IPV4•线路3
-CHC家庭影院HD,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/jbtygqCHCjtyyH265_4000.m3u8
-Chifeng News,http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
-广东影视,http://120.87.19.109:80/PLTV/88888973/224/3221225726/10000100000000060000000000334170_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3x9PptoWdtySh7Tt1DQw3DGgWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601$IPV4•线路4
-CHC动作电影HD,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/wqCHCdzdyH265_4000.m3u8
-France 24 English,https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
-广东影视,http://www.yahao.host:4022/udp/239.77.0.217:5146$IPV4•线路5
-求索纪录,http://111.22.153.159:35455/itv/2000000004000000010.m3u8?cdn=hnbblive
