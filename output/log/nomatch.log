@@ -1,4 +1,3 @@
-CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 LiveNOW from FOX,https://s11host2.localnow.api.cms.amdvids.com/v1/manifest/c189661feba961c19bc5fb60b57879ee9b84548a/config13/25a2f26d-fa83-469b-a0c6-0d4508fec2c0/2.m3u8
 Newsmax,https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
 Reuters,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/e7493ea5-5c1c-4d7a-a3f7-e95516048ad8/3.m3u8
@@ -35,48 +34,25 @@ Sony One Comedy HITS UK,https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-
 Sony One Thriller TV UK,https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-808-UK-SONYONETHRILLERTV-LG_UK/02d6917b-e5da-46e2-82d5-c3b3103bfd0e/0.m3u8
 The LEGO Channel,https://dh18i7whff86v.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pslwq5nud9zg9/fc2273de-2ae1-4ed2-905d-739cf431eb30/0.m3u8
 FilmRise Mysteries,https://aka-live1050.delivery.roku.com/6958d32d-d93b-4cbd-81ca-aab20001570b/t2-origin/out/v1/live_720.m3u8
-东方卫视4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 FilmRise True Crime,https://aka-live1050.delivery.roku.com/22b66942-f85a-4a33-9440-61fea2cac667/t2-origin/out/v1/live_720.m3u8
-浙江卫视4K,http://101.35.240.114:88/live.php?id=浙江卫视4K
 MagellanTV Wildest,https://s8host3.localnow.api.cms.amdvids.com/v1/manifest/c189661feba961c19bc5fb60b57879ee9b84548a/config10/fdc864bc-5776-4756-90d6-b0902043c249/0.m3u8
-江苏卫视4K,http://8.138.7.223/tv/jsws4k.php
 REELZ Famous & Infamous,https://pb-pskpwdav4v1e3.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-pskpwdav4v1e3/285d2802-77e5-459a-950e-c055bd2ace07/0.m3u8
-广东卫视4K,http://101.35.240.114:88/live.php?id=广东卫视4K
 CTV Gridlock CA,https://dhjd4u7ds8bgi.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ses39ewew36zq/edd17cd1-3ddc-42bd-9941-e780391c4ff5/3.m3u8
-深圳卫视4K,#http://101.35.240.114:88/live.php?id=深圳卫视
 Comet,https://fast-channels.sinclairstoryline.com/COMET/index_1.m3u8
-山东卫视4K,http://101.35.240.114:88/live.php?id=山东卫视4K
 ION Television,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/a5e7ebd8-80a4-49ed-8337-3f63f84673cc/1.m3u8
-苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 RMC Découverte FR,https://d1dagx0hs2fkxs.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-2p2o2x977e2oh/1684a6c6-7cce-480a-88c0-aff91aab84f5/0.m3u8
-河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 RMC Story FR,https://d171yrj5ba7twq.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-c5al169c4n0ck/63cd71b0-38bc-4416-8e96-4384ea5bac34/0.m3u8
-南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 CTV @ Home CA,https://d1ieuq3tbxyiyt.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zv27yfxabsqcr/d20c04d4-1577-446c-b551-5bb288121a09/3.m3u8
-CCTV-兵器科技,http://www.lizhinas.top:1009/rtp/239.252.219.98:5140
 CTV Gets Real CA,https://dyibab6iv1p6i.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4j7c245x3pz3r/04f2cd9d-c459-4f57-a79f-473d1b3ca65a/3.m3u8
-CCTV-世界地理,http://www.lizhinas.top:1009/rtp/239.252.219.93:5140
 CTV Laughs CA,https://dvsxtm7eutazd.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8bf178m7nvq93/b1bc7153-ba35-44a8-8706-a64867f31214/3.m3u8
-CCTV-风云足球,http://www.lizhinas.top:1009/rtp/239.252.219.96:5140
 Stingray DJAZZ,https://d1or3dijypy7w9.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fnc447z72mkdf/220c440a-5b8b-4760-b6fd-57ac5c97bcc8/3.m3u8
-CCTV-文化精品,http://www.lizhinas.top:1009/rtp/239.252.219.81:5140
 XITE 80s Flashback,https://d1n314cytqn9r3.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bklagqy82v0pr/546a529d-394a-4513-bb13-af14dbfbefaf/3.m3u8
-CCTV-女性时尚,http://www.lizhinas.top:1009/rtp/239.252.219.94:5140
 XITE 90s Throwback,https://d284aawtm5vi48.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/4aa6988f-4506-421c-8687-42c4b2105ad0/3.m3u8
-CCTV-卫生健康,http://nas.hssvm.com:8888/udp/225.1.1.210:5002
 XITE Just Chill,https://dvnftgdlbnemm.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dh48uzd9o895t/00fbab90-74cb-4f1f-9dc7-3c6729bc05b6/3.m3u8
-CCTV-央视台球,http://www.lizhinas.top:1009/rtp/239.252.219.80:5140
 XITE Nuevo Latino,https://d3bsgqzbpkrvbb.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/075ea560-48b3-46ee-a540-4652a11b6496/3.m3u8
-CCTV-央视高网,http://www.lizhinas.top:1009/rtp/239.252.219.95:5140
 XITE Rock x Metal,https://d198ro05q94rc4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/cb1e7724-889a-4222-bd51-521d7138d981/3.m3u8
-CCTV-电视指南,http://www.lizhinas.top:1009/rtp/239.252.219.97:5140
 XITE Spring Vibes,https://dt1s4l2cmiyit.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fcwpee1h7t5cs/530416f1-5263-4b76-b173-89ec9966d010/3.m3u8
-中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 Deluxe RAP DE,https://db7hpmv1jrjri.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m380ud5ckv9kb/b0ddd142-6bee-4a68-a804-7c42acd2fbe6/3.m3u8
-中国交通,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 TV BRICS Chinese,https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
-直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 Chifeng News,http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
-熊猫直播,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 France 24 English,https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
-CETV-1 综合教育,http://www.lizhinas.top:1009/rtp/239.252.220.198:5140
